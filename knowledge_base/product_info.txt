@@ -1,0 +1,1 @@
+Our product is a smart home assistant called HomeBuddy. It can control lights, thermostats, and other smart devices in your home. HomeBuddy is compatible with major smart home ecosystems like Google Home, Amazon Alexa, and Apple HomeKit.
